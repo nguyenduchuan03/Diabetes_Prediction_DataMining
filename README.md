@@ -31,10 +31,10 @@ Tính toán ma trận lift để đánh giá mức độ liên quan giữa các 
 📁 Cấu trúc thư mục
 
 Diabetes_Prediction_DataMining/
-data                    # Dữ liệu (CSV, JSON,...)
-notebooks               # File Jupyter Notebook (.ipynb)
-reports                 # Báo cáo dự án
-README.md                # Giới thiệu dự án
+data # Dữ liệu (CSV, JSON,...)
+notebooks # File Jupyter Notebook (.ipynb)
+reports # Báo cáo dự án
+README.mdZ # Giới thiệu dự án
 
 📌 Kết quả
 
@@ -54,8 +54,8 @@ Kết hợp với Machine Learning (LSTM, Random Forest) để nâng cao độ c
 
 📎 Tài nguyên & Liên kết
 
-📄 Báo cáo chi tiết: Link file Word
+📂 **Tài nguyên & Liên kết**
+📄 [Báo cáo chi tiết](https://link-to-your-word-file)
+📊 [Dữ liệu mẫu: Dataset.rar](https://github.com/nguyenduchuan03/Diabetes_Prediction_DataMining/blob/main/Dataset.rar)
+📂 [Mã nguồn trên GitHub](https://github.com/nguyenduchuan03/Diabetes_Prediction_DataMining)
 
-📊 Dữ liệu mẫu: Dataset.rar
-
-📂 Mã nguồn trên GitHub: Repo GitHub

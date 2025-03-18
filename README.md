@@ -31,10 +31,10 @@ Tính toán ma trận lift để đánh giá mức độ liên quan giữa các 
 📁 Cấu trúc thư mục
 
 Diabetes_Prediction_DataMining/
-│── data/                    # Dữ liệu (CSV, JSON,...)
-│── notebooks/               # File Jupyter Notebook (.ipynb)
-│── reports/                 # Báo cáo dự án
-│── README.md                # Giới thiệu dự án
+data                    # Dữ liệu (CSV, JSON,...)
+notebooks               # File Jupyter Notebook (.ipynb)
+reports                 # Báo cáo dự án
+README.md                # Giới thiệu dự án
 
 📌 Kết quả
 

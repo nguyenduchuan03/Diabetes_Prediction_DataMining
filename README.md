@@ -56,6 +56,6 @@ Kết hợp với Machine Learning (LSTM, Random Forest) để nâng cao độ c
 
 📄 Báo cáo chi tiết: Link file Word
 
-📊 Dữ liệu mẫu: Dataset.csv
+📊 Dữ liệu mẫu: Dataset.rar
 
 📂 Mã nguồn trên GitHub: Repo GitHub
